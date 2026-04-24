@@ -74,11 +74,5 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c
 ## **Flowchart**
 ![flowchart](https://zupimages.net/up/23/30/vzp5.jpg)
 
-*********
 
 
-## Authors :pencil2:
-
-Sabrina Papeau  - [Github](https://github.com/Holbiwan)
-
-Claudine Sillam - [Github](https://github.com/Coconuts-del)
